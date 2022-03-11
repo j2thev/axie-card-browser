@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
+const jeason = require('./card-ability');
 
 app.get('/dissectKey', (req, res) => {
     var items = req.query.key.split('');
@@ -11,6 +12,10 @@ app.get('/dissectKey', (req, res) => {
         list1,
         list2 
     });
+});
+
+app.get('/jeason', (req, res) => {
+    res.json(jeason);
 });
 
 app.listen(port, () => {
