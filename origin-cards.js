@@ -1,4 +1,5 @@
-module.exports = [
+module.exports = {
+                   "cards": [
                      {
                        "partId": "back-anemone",
                        "partName": "Anemone",
@@ -5186,52 +5187,13 @@ module.exports = [
                    ],
                    "toolCards": [
                      {
-                       "name": "Energy Coin",
-                       "cardShield": "0",
-                       "cardHeal": "0",
-                       "cardEnergy": "0",
-                       "description": "<Retain>. Gain 1 Energy. <Banish>.",
-                       "cardImage": "tool-energycoin-02.png"
-                     },
-                     {
-                       "name": "Forest Breath",
-                       "cardShield": "0",
-                       "cardHeal": "0",
-                       "cardEnergy": "0",
-                       "description": "<Retain>.Target an Ally. <Cleanse>.",
-                       "cardImage": "tool-forestbreath-02.png"
-                     },
-                     {
-                       "name": "Forest Wrath",
-                       "cardShield": "0",
-                       "cardHeal": "0",
-                       "cardEnergy": "0",
-                       "description": "Attack all Enemies. Deal 10 bonus pure DMG per debuffed Allies.",
-                       "cardImage": "tool-forestwrath-02.png"
-                     },
-                     {
                        "name": "Lumber Shield",
                        "cardShield": "12",
                        "cardHeal": "0",
                        "cardEnergy": "0",
                        "description": "<Retain>. Target any ally. <Banish>.",
+                       "tags": "skill,retain,banish",
                        "cardImage": "tool-lumbershield-02.png"
-                     },
-                     {
-                       "name": "Mandarine",
-                       "cardShield": "0",
-                       "cardHeal": "30",
-                       "cardEnergy": "0",
-                       "description": "<Retain>. Target any ally. <Banish>.",
-                       "cardImage": "tool-mandarine-02.png"
-                     },
-                     {
-                       "name": "Pacu",
-                       "cardShield": "0",
-                       "cardHeal": "0",
-                       "cardEnergy": "0",
-                       "description": "<Retain>. Target any enemy. Deal 5 DMG. Deal 10 bonus DMG against Bleeding enemy. <Banish>",
-                       "cardImage": "tool-pacu-02.png"
                      },
                      {
                        "name": "Pure Water",
@@ -5239,6 +5201,7 @@ module.exports = [
                        "cardHeal": "6",
                        "cardEnergy": "0",
                        "description": "<Retain>. Target any ally. <Banish>.",
+                       "tags": "skill,retain,banish",
                        "cardImage": "tool-purewater-02.png"
                      },
                      {
@@ -5247,6 +5210,7 @@ module.exports = [
                        "cardHeal": "60",
                        "cardEnergy": "0",
                        "description": "<Retain>. Target any ally. <Banish>.",
+                       "tags": "skill,retain,banish",
                        "cardImage": "tool-strawberry-02.png"
                      }
                    ],
@@ -5257,6 +5221,7 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "Apply {Taunt} to your furthest Axie for 2 turns. If this is not used, put it onto the top of your draw pile. <Banish>.",
+                       "tags": "skill,banish",
                        "cardImage": "tool-blackmail-02.png"
                      },
                      {
@@ -5265,6 +5230,7 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "<Unplayable>. <Ethereal>. At the end of your turn, all allies take 8 damage.",
+                       "tags": "unplayable,ethereal",
                        "cardImage": "tool-burn-02.png"
                      },
                      {
@@ -5273,6 +5239,7 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "<Unplayable>. <Ethereal>.",
+                       "tags": "unplayable,ethereal",
                        "cardImage": "tool-confused-02.png"
                      },
                      {
@@ -5281,6 +5248,7 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "<Unplayable>.",
+                       "tags": "unplayable",
                        "cardImage": "tool-daze-02.png"
                      },
                      {
@@ -5289,6 +5257,7 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "<Banish>.",
+                       "tags": "banish",
                        "cardImage": "tool-goo-02.png"
                      },
                      {
@@ -5297,15 +5266,8 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "<Unplayable>. <Ethereal>. At the end of your turn, your furthest Axie takes 15 damage.",
+                       "tags": "unplayable,ethereal",
                        "cardImage": "tool-jinx-02.png"
-                     },
-                     {
-                       "name": "Scorch",
-                       "cardShield": "0",
-                       "cardHeal": "0",
-                       "cardEnergy": "X",
-                       "description": "<Unplayable>. At the end of your turn, all allies take 8 damage.",
-                       "cardImage": "tool-scorch-02.png"
                      },
                      {
                        "name": "Void",
@@ -5313,6 +5275,7 @@ module.exports = [
                        "cardHeal": "0",
                        "cardEnergy": "X",
                        "description": "<Unplayable>. <Ethereal>. When you draw 1 or more [Void], lose 1 Energy.",
+                       "tags": "unplayable,ethereal",
                        "cardImage": "tool-void-02.png"
                      }
                    ],
@@ -5546,3 +5509,4 @@ module.exports = [
                        "image": "buff_fury.png"
                      }
                    ]
+                 }
