@@ -1,7 +1,8 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-const jeason = require('./card-ability');
+const classicCards = require('./classic-cards');
+const originCards = require('./origin-cards');
 
 app.get('/dissectKey', (req, res) => {
     var items = req.query.key.split('');
@@ -14,8 +15,12 @@ app.get('/dissectKey', (req, res) => {
     });
 });
 
-app.get('/jeason', (req, res) => {
-    res.json(jeason);
+app.get('/classic-cards', (req, res) => {
+    res.json(classicCards);
+});
+
+app.get('/origin-cards', (req, res) => {
+    res.json(originCards);
 });
 
 app.listen(port, () => {
