@@ -1496,7 +1496,7 @@ module.exports = {
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
-                       "tags": "skill,card,banish",
+                       "tags": "skill,card,banish,innate",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -2364,7 +2364,7 @@ module.exports = {
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
-                       "tags": "attack,non_multihit,area,debuff",
+                       "tags": "attack,non_multihit,area,debuff,innate",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -4464,7 +4464,7 @@ module.exports = {
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
-                       "tags": "skill,card",
+                       "tags": "skill,card,innate",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -4660,7 +4660,7 @@ module.exports = {
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "0",
-                       "tags": "attack,debuff,banish",
+                       "tags": "attack,debuff,banish,innate",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -5080,7 +5080,7 @@ module.exports = {
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "2",
-                       "tags": "power",
+                       "tags": "power,innate",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -5332,7 +5332,7 @@ module.exports = {
                        "cardShield": "60",
                        "cardHeal": "0",
                        "cardEnergy": "1",
-                       "tags": "skill,shield,no_effect",
+                       "tags": "skill,shield,no_effect,innate",
                        "summon": {
                          "name": null,
                          "class": null,
