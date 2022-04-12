@@ -1,6 +1,7 @@
 module.exports = {
                    "cards": [
                      {
+                       "id": "227",
                        "partId": "back-anemone",
                        "partName": "Anemone",
                        "class": "Aquatic",
@@ -28,6 +29,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "231",
                        "partId": "horn-anemone",
                        "partName": "Anemone",
                        "class": "Aquatic",
@@ -55,6 +57,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "492",
+                       "partId": "eyes-baby",
+                       "partName": "Baby",
+                       "class": "Aquatic",
+                       "partType": "eyes",
+                       "cardName": "Baby",
+                       "cardType": "power",
+                       "cardDamage": "0",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "2",
+                       "tags": "power",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "aquatic-eyes-01.png",
+                       "cardText": "Attacks deal 33 bonus DMG if HP is above 66%",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Support",
+                         "speciality": "Offensive"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "229",
                        "partId": "horn-babylonia",
                        "partName": "Babylonia",
                        "class": "Aquatic",
@@ -82,6 +113,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "224",
                        "partId": "back-blue-moon",
                        "partName": "Blue Moon",
                        "class": "Aquatic",
@@ -109,6 +141,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "366",
                        "partId": "ears-bubblemaker",
                        "partName": "Bubblemaker",
                        "class": "Aquatic",
@@ -136,6 +169,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "234",
                        "partId": "mouth-catfish",
                        "partName": "Catfish",
                        "class": "Aquatic",
@@ -163,6 +197,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "230",
                        "partId": "horn-clamshell",
                        "partName": "Clamshell",
                        "class": "Aquatic",
@@ -190,6 +225,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "363",
                        "partId": "eyes-clear",
                        "partName": "Clear",
                        "class": "Aquatic",
@@ -217,6 +253,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "360",
                        "partId": "eyes-gero",
                        "partName": "Gero",
                        "class": "Aquatic",
@@ -244,6 +281,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "367",
                        "partId": "ears-gill",
                        "partName": "Gill",
                        "class": "Aquatic",
@@ -271,6 +309,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "225",
                        "partId": "back-goldfish",
                        "partName": "Goldfish",
                        "class": "Aquatic",
@@ -298,6 +337,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "223",
                        "partId": "back-hermit",
                        "partName": "Hermit",
                        "class": "Aquatic",
@@ -325,6 +365,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "368",
                        "partId": "ears-inkling",
                        "partName": "Inkling",
                        "class": "Aquatic",
@@ -352,6 +393,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "493",
+                       "partId": "horn-jellytacle",
+                       "partName": "Jellytacle",
+                       "class": "Aquatic",
+                       "partType": "horn",
+                       "cardName": "Jellytacle",
+                       "cardType": "attack",
+                       "cardDamage": "65",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "aquatic-horn-01.png",
+                       "cardText": "If <Initial>, restore 15 HP.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "236",
                        "partId": "tail-koi",
                        "partName": "Koi",
                        "class": "Aquatic",
@@ -379,6 +449,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "233",
                        "partId": "mouth-lam",
                        "partName": "Lam",
                        "class": "Aquatic",
@@ -406,6 +477,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "547",
+                       "partId": "ears-little-crab",
+                       "partName": "Little Crab",
+                       "class": "Aquatic",
+                       "partType": "ears",
+                       "cardName": "Little Crab",
+                       "cardType": "attack",
+                       "cardDamage": "80",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "aquatic-ears-01.png",
+                       "cardText": "<Ethereal>.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Unclassified"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "240",
                        "partId": "tail-navaga",
                        "partName": "Navaga",
                        "class": "Aquatic",
@@ -433,6 +533,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "237",
                        "partId": "tail-nimo",
                        "partName": "Nimo",
                        "class": "Aquatic",
@@ -441,9 +542,9 @@ module.exports = {
                        "cardType": "skill",
                        "cardDamage": "0",
                        "cardShield": "0",
-                       "cardHeal": "0",
+                       "cardHeal": "15",
                        "cardEnergy": "0",
-                       "tags": "skill,card,draw,energy,banish",
+                       "tags": "skill,energy,banish",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -451,7 +552,7 @@ module.exports = {
                          "effect": null
                        },
                        "cardImage": "aquatic-tail-04.png",
-                       "cardText": "Draw 1 Card. Gain 1 Energy. <Banish>.",
+                       "cardText": "Gain 1 Energy. <Banish>.",
                        "specialGenes": null,
                        "classification": {
                          "role": "Support",
@@ -460,6 +561,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "476",
                        "partId": "ears-nimo",
                        "partName": "Nimo",
                        "class": "Aquatic",
@@ -468,9 +570,9 @@ module.exports = {
                        "cardType": "skill",
                        "cardDamage": "0",
                        "cardShield": "0",
-                       "cardHeal": "25",
+                       "cardHeal": "0",
                        "cardEnergy": "0",
-                       "tags": "skill,heal,energy",
+                       "tags": "skill,energy",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -487,6 +589,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "336",
                        "partId": "horn-oranda",
                        "partName": "Oranda",
                        "class": "Aquatic",
@@ -514,6 +617,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "228",
                        "partId": "back-perch",
                        "partName": "Perch",
                        "class": "Aquatic",
@@ -541,6 +645,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "337",
                        "partId": "mouth-piranha",
                        "partName": "Piranha",
                        "class": "Aquatic",
@@ -568,6 +673,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "494",
+                       "partId": "tail-puff",
+                       "partName": "Puff",
+                       "class": "Aquatic",
+                       "partType": "tail",
+                       "cardName": "Puff",
+                       "cardType": "attack",
+                       "cardDamage": "66",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "X",
+                       "tags": "attack,multihit,retain_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "aquatic-tail-01.png",
+                       "cardText": "<Retain>. Randomly deal X hits.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Unclassified"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "239",
                        "partId": "tail-ranchu",
                        "partName": "Ranchu",
                        "class": "Aquatic",
@@ -595,6 +729,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "235",
                        "partId": "mouth-risky-fish",
                        "partName": "Risky Fish",
                        "class": "Aquatic",
@@ -622,6 +757,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "373",
                        "partId": "ears-seaslug",
                        "partName": "Seaslug",
                        "class": "Aquatic",
@@ -649,6 +785,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "232",
                        "partId": "horn-shoal-star",
                        "partName": "Shoal Star",
                        "class": "Aquatic",
@@ -676,6 +813,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "241",
                        "partId": "tail-shrimp",
                        "partName": "Shrimp",
                        "class": "Aquatic",
@@ -703,6 +841,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "361",
                        "partId": "eyes-sleepless",
                        "partName": "Sleepless",
                        "class": "Aquatic",
@@ -730,6 +869,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "226",
                        "partId": "back-sponge",
                        "partName": "Sponge",
                        "class": "Aquatic",
@@ -757,6 +897,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "238",
                        "partId": "tail-tadpole",
                        "partName": "Tadpole",
                        "class": "Aquatic",
@@ -784,6 +925,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "335",
                        "partId": "horn-teal-shell",
                        "partName": "Teal Shell",
                        "class": "Aquatic",
@@ -811,6 +953,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "364",
                        "partId": "eyes-telescope",
                        "partName": "Telescope",
                        "class": "Aquatic",
@@ -838,6 +981,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "365",
                        "partId": "ears-tiny-fan",
                        "partName": "Tiny Fan",
                        "class": "Aquatic",
@@ -865,6 +1009,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "253",
                        "partId": "horn-arco",
                        "partName": "Arco",
                        "class": "Beast",
@@ -892,6 +1037,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "339",
                        "partId": "mouth-axie-kiss",
                        "partName": "Axie Kiss",
                        "class": "Beast",
@@ -919,6 +1065,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "388",
                        "partId": "ears-belieber",
                        "partName": "Belieber",
                        "class": "Beast",
@@ -946,6 +1093,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "491",
+                       "partId": "tail-buba-brush",
+                       "partName": "Buba Brush",
+                       "class": "Beast",
+                       "partType": "tail",
+                       "cardName": "Buba Brush",
+                       "cardType": "attack",
+                       "cardDamage": "60",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,buff",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "beast-tail-03.png",
+                       "cardText": "Gain 2 {Rage}.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Rage"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "380",
                        "partId": "eyes-chubby",
                        "partName": "Chubby",
                        "class": "Beast",
@@ -973,6 +1149,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "255",
                        "partId": "mouth-confident",
                        "partName": "Confident",
                        "class": "Beast",
@@ -1000,6 +1177,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "256",
                        "partId": "tail-cottontail",
                        "partName": "Cottontail",
                        "class": "Beast",
@@ -1027,6 +1205,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "486",
+                       "partId": "mouth-cub",
+                       "partName": "Cub",
+                       "class": "Beast",
+                       "partType": "mouth",
+                       "cardName": "Cub",
+                       "cardType": "attack",
+                       "cardDamage": "60",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,card,draw",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "beast-mouth-05.png",
+                       "cardText": "If <Initial>, draw 1 Skill/Secret Card",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Tactical"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "252",
                        "partId": "horn-dual-blade",
                        "partName": "Dual Blade",
                        "class": "Beast",
@@ -1054,6 +1261,63 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "483",
+                       "partId": "ears-foxy",
+                       "partName": "Foxy",
+                       "class": "Beast",
+                       "partType": "ears",
+                       "cardName": "Foxy",
+                       "cardType": "attack",
+                       "cardDamage": "60",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,no_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "beast-ears-03.png",
+                       "cardText": "Target the furthest enemy.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Backdoor"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "484",
+                       "partId": "mouth-foxy",
+                       "partName": "Foxy",
+                       "class": "Beast",
+                       "partType": "mouth",
+                       "cardName": "Foxy",
+                       "cardType": "attack",
+                       "cardDamage": "65",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,buff,retain_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "beast-mouth-01.png",
+                       "cardText": "<Retain>. Gain 1 {Rage}. If Retained, +1 {Rage} when played (cap:3 rounds).",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Rage"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "247",
                        "partId": "back-furball",
                        "partName": "Furball",
                        "class": "Beast",
@@ -1081,6 +1345,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "261",
                        "partId": "tail-gerbil",
                        "partName": "Gerbil",
                        "class": "Beast",
@@ -1108,6 +1373,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "338",
                        "partId": "mouth-goda",
                        "partName": "Goda",
                        "class": "Beast",
@@ -1135,6 +1401,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "259",
                        "partId": "tail-hare",
                        "partName": "Hare",
                        "class": "Beast",
@@ -1162,6 +1429,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "243",
                        "partId": "back-hero",
                        "partName": "Hero",
                        "class": "Beast",
@@ -1189,6 +1457,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "249",
                        "partId": "horn-imp",
                        "partName": "Imp",
                        "class": "Beast",
@@ -1216,6 +1485,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "384",
                        "partId": "ears-innocent-lamb",
                        "partName": "Innocent Lamb",
                        "class": "Beast",
@@ -1243,6 +1513,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "244",
                        "partId": "back-jaguar",
                        "partName": "Jaguar",
                        "class": "Beast",
@@ -1270,6 +1541,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "248",
                        "partId": "horn-little-branch",
                        "partName": "Little Branch",
                        "class": "Beast",
@@ -1297,6 +1569,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "387",
                        "partId": "eyes-little-peas",
                        "partName": "Little Peas",
                        "class": "Beast",
@@ -1324,6 +1597,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "250",
                        "partId": "horn-merry",
                        "partName": "Merry",
                        "class": "Beast",
@@ -1351,6 +1625,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "254",
                        "partId": "mouth-nut-cracker",
                        "partName": "Nut Cracker",
                        "class": "Beast",
@@ -1378,6 +1653,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "260",
                        "partId": "tail-nut-cracker",
                        "partName": "Nut Cracker",
                        "class": "Beast",
@@ -1405,6 +1681,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "478",
                        "partId": "ears-nut-cracker",
                        "partName": "Nut Cracker",
                        "class": "Beast",
@@ -1432,6 +1709,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "385",
                        "partId": "ears-nyan",
                        "partName": "Nyan",
                        "class": "Beast",
@@ -1459,6 +1737,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "251",
                        "partId": "horn-pocky",
                        "partName": "Pocky",
                        "class": "Beast",
@@ -1486,6 +1765,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "485",
+                       "partId": "mouth-puff",
+                       "partName": "Puff",
+                       "class": "Beast",
+                       "partType": "mouth",
+                       "cardName": "Puff",
+                       "cardType": "attack",
+                       "cardDamage": "60",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,leech",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "beast-mouth-03.png",
+                       "cardText": "Heal HP equal to 50% of unblocked DMG.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "382",
                        "partId": "ears-puppy",
                        "partName": "Puppy",
                        "class": "Beast",
@@ -1494,8 +1802,8 @@ module.exports = {
                        "cardType": "skill",
                        "cardDamage": "0",
                        "cardShield": "0",
-                       "cardHeal": "65",
-                       "cardEnergy": "1",
+                       "cardHeal": "25",
+                       "cardEnergy": "0",
                        "tags": "skill,heal,cure",
                        "summon": {
                          "name": null,
@@ -1503,7 +1811,7 @@ module.exports = {
                          "hp": null,
                          "effect": null
                        },
-                       "cardImage": "beast-ears-08.png",
+                       "cardImage": "beast-ears-10.png",
                        "cardText": "Heal your team. If <Initial>, remove 1 Curse Card from your deck.",
                        "specialGenes": null,
                        "classification": {
@@ -1513,6 +1821,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "480",
                        "partId": "eyes-puppy",
                        "partName": "Puppy",
                        "class": "Beast",
@@ -1540,6 +1849,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "257",
                        "partId": "tail-rice",
                        "partName": "Rice",
                        "class": "Beast",
@@ -1550,7 +1860,7 @@ module.exports = {
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
-                       "tags": "attack,non_multihit,single_attack,energy,leech",
+                       "tags": "attack,non_multihit,single_attack,energy,leech,banish",
                        "summon": {
                          "name": null,
                          "class": null,
@@ -1558,7 +1868,7 @@ module.exports = {
                          "effect": null
                        },
                        "cardImage": "beast-tail-04.png",
-                       "cardText": "{Steal} 40 HP. Gain 1 Energy if this Axie's HP is full.",
+                       "cardText": "{Steal} 40 HP. Gain 1 Energy if this Axie's HP is full. {Banish}.",
                        "specialGenes": null,
                        "classification": {
                          "role": "Defender",
@@ -1567,6 +1877,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "245",
                        "partId": "back-risky-beast",
                        "partName": "Risky Beast",
                        "class": "Beast",
@@ -1594,6 +1905,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "242",
                        "partId": "back-ronin",
                        "partName": "Ronin",
                        "class": "Beast",
@@ -1621,6 +1933,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "258",
                        "partId": "tail-shiba",
                        "partName": "Shiba",
                        "class": "Beast",
@@ -1648,6 +1961,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "481",
+                       "partId": "eyes-sparky",
+                       "partName": "Sparky",
+                       "class": "Beast",
+                       "partType": "eyes",
+                       "cardName": "Sparky",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "skill,buff",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "beast-eyes-03.png",
+                       "cardText": "Gain 4 {Rage}.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Rage"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "246",
                        "partId": "back-timber",
                        "partName": "Timber",
                        "class": "Beast",
@@ -1675,6 +2017,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "379",
                        "partId": "eyes-zeal",
                        "partName": "Zeal",
                        "class": "Beast",
@@ -1702,6 +2045,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "390",
                        "partId": "ears-zen",
                        "partName": "Zen",
                        "class": "Beast",
@@ -1729,6 +2073,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "262",
                        "partId": "back-balloon",
                        "partName": "Balloon",
                        "class": "Bird",
@@ -1756,6 +2101,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "277",
                        "partId": "tail-cloud",
                        "partName": "Cloud",
                        "class": "Bird",
@@ -1783,6 +2129,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "267",
                        "partId": "horn-cuckoo",
                        "partName": "Cuckoo",
                        "class": "Bird",
@@ -1810,6 +2157,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "263",
                        "partId": "back-cupid",
                        "partName": "Cupid",
                        "class": "Bird",
@@ -1837,6 +2185,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "407",
                        "partId": "ears-curly",
                        "partName": "Curly",
                        "class": "Bird",
@@ -1864,6 +2213,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "271",
                        "partId": "mouth-doubletalk",
                        "partName": "Doubletalk",
                        "class": "Bird",
@@ -1891,6 +2241,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "404",
                        "partId": "ears-early-bird",
                        "partName": "Early Bird",
                        "class": "Bird",
@@ -1918,6 +2269,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "359",
                        "partId": "horn-eggshell",
                        "partName": "Eggshell",
                        "class": "Bird",
@@ -1945,6 +2297,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "275",
                        "partId": "tail-feather-fan",
                        "partName": "Feather Fan",
                        "class": "Bird",
@@ -1972,6 +2325,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "270",
                        "partId": "horn-feather-spear",
                        "partName": "Feather Spear",
                        "class": "Bird",
@@ -1999,6 +2353,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "343",
                        "partId": "tail-granmas-fan",
                        "partName": "Granma's Fan",
                        "class": "Bird",
@@ -2026,6 +2381,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "342",
                        "partId": "mouth-hungry-bird",
                        "partName": "Hungry Bird",
                        "class": "Bird",
@@ -2053,6 +2409,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "341",
                        "partId": "horn-kestrel",
                        "partName": "Kestrel",
                        "class": "Bird",
@@ -2071,7 +2428,7 @@ module.exports = {
                          "effect": null
                        },
                        "cardImage": "bird-horn-08.png",
-                       "cardText": "Apply {Disarmed} for 4 turns.",
+                       "cardText": "Apply {Disarmed} for 2 turns.",
                        "specialGenes": null,
                        "classification": {
                          "role": "Damage Dealer",
@@ -2080,6 +2437,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "340",
                        "partId": "back-kingfisher",
                        "partName": "Kingfisher",
                        "class": "Bird",
@@ -2107,6 +2465,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "273",
                        "partId": "mouth-little-owl",
                        "partName": "Little Owl",
                        "class": "Bird",
@@ -2134,6 +2493,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "477",
                        "partId": "eyes-little-owl",
                        "partName": "Little Owl",
                        "class": "Bird",
@@ -2161,6 +2521,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "399",
                        "partId": "eyes-lucas",
                        "partName": "Lucas",
                        "class": "Bird",
@@ -2188,6 +2549,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "400",
                        "partId": "eyes-mavis",
                        "partName": "Mavis",
                        "class": "Bird",
@@ -2215,6 +2577,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "405",
                        "partId": "ears-owl",
                        "partName": "Owl",
                        "class": "Bird",
@@ -2242,6 +2605,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "272",
                        "partId": "mouth-peace-maker",
                        "partName": "Peace Maker",
                        "class": "Bird",
@@ -2269,6 +2633,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "479",
                        "partId": "ears-peace-maker",
                        "partName": "Peace Maker",
                        "class": "Bird",
@@ -2296,6 +2661,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "265",
                        "partId": "back-pigeon-post",
                        "partName": "Pigeon Post",
                        "class": "Bird",
@@ -2323,6 +2689,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "401",
                        "partId": "ears-pink-cheek",
                        "partName": "Pink Cheek",
                        "class": "Bird",
@@ -2350,6 +2717,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "344",
                        "partId": "tail-post-fight",
                        "partName": "Post Fight",
                        "class": "Bird",
@@ -2377,6 +2745,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "264",
                        "partId": "back-raven",
                        "partName": "Raven",
                        "class": "Bird",
@@ -2404,6 +2773,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "406",
                        "partId": "ears-risky-bird",
                        "partName": "Risky Bird",
                        "class": "Bird",
@@ -2431,6 +2801,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "402",
                        "partId": "eyes-robin",
                        "partName": "Robin",
                        "class": "Bird",
@@ -2458,6 +2829,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "274",
                        "partId": "tail-swallow",
                        "partName": "Swallow",
                        "class": "Bird",
@@ -2485,6 +2857,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "276",
                        "partId": "tail-the-last-one",
                        "partName": "The Last One",
                        "class": "Bird",
@@ -2512,6 +2885,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "266",
                        "partId": "back-tri-feather",
                        "partName": "Tri Feather",
                        "class": "Bird",
@@ -2539,6 +2913,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "268",
                        "partId": "horn-trump",
                        "partName": "Trump",
                        "class": "Bird",
@@ -2566,6 +2941,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "269",
                        "partId": "horn-wing-horn",
                        "partName": "Wing Horn",
                        "class": "Bird",
@@ -2593,6 +2969,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "291",
                        "partId": "tail-ant",
                        "partName": "Ant",
                        "class": "Bug",
@@ -2620,6 +2997,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "284",
                        "partId": "horn-antenna",
                        "partName": "Antenna",
                        "class": "Bug",
@@ -2647,6 +3025,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "422",
                        "partId": "ears-beetle-spike",
                        "partName": "Beetle Spike",
                        "class": "Bug",
@@ -2674,6 +3053,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "416",
                        "partId": "eyes-bookworm",
                        "partName": "Bookworm",
                        "class": "Bug",
@@ -2701,6 +3081,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "279",
                        "partId": "back-buzz-buzz",
                        "partName": "Buzz Buzz",
                        "class": "Bug",
@@ -2728,6 +3109,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "285",
                        "partId": "horn-caterpillars",
                        "partName": "Caterpillars",
                        "class": "Bug",
@@ -2755,6 +3137,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "289",
                        "partId": "mouth-cute-bunny",
                        "partName": "Cute Bunny",
                        "class": "Bug",
@@ -2782,6 +3165,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "424",
                        "partId": "ears-ear-breathing",
                        "partName": "Ear Breathing",
                        "class": "Bug",
@@ -2809,6 +3193,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "427",
                        "partId": "ears-earwing",
                        "partName": "Earwing",
                        "class": "Bug",
@@ -2836,6 +3221,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "293",
                        "partId": "tail-fish-snack",
                        "partName": "Fish Snack",
                        "class": "Bug",
@@ -2863,6 +3249,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "278",
                        "partId": "back-garish-worm",
                        "partName": "Garish Worm",
                        "class": "Bug",
@@ -2890,6 +3277,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "348",
                        "partId": "tail-gravel-ant",
                        "partName": "Gravel Ant",
                        "class": "Bug",
@@ -2917,6 +3305,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "419",
                        "partId": "eyes-kotaro",
                        "partName": "Kotaro?",
                        "class": "Bug",
@@ -2944,6 +3333,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "437",
                        "partId": "horn-lagging",
                        "partName": "Lagging",
                        "class": "Bug",
@@ -2971,6 +3361,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "421",
                        "partId": "ears-larva",
                        "partName": "Larva",
                        "class": "Bug",
@@ -2998,6 +3389,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "287",
                        "partId": "horn-leaf-bug",
                        "partName": "Leaf Bug",
                        "class": "Bug",
@@ -3025,6 +3417,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "548",
                        "partId": "ears-leaf-bug",
                        "partName": "Leaf Bug",
                        "class": "Bug",
@@ -3052,6 +3445,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "288",
                        "partId": "mouth-mosquito",
                        "partName": "Mosquito",
                        "class": "Bug",
@@ -3079,6 +3473,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "417",
                        "partId": "eyes-neo",
                        "partName": "Neo",
                        "class": "Bug",
@@ -3106,6 +3501,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "418",
                        "partId": "eyes-nerdy",
                        "partName": "Nerdy",
                        "class": "Bug",
@@ -3133,6 +3529,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "346",
                        "partId": "horn-parasite",
                        "partName": "Parasite",
                        "class": "Bug",
@@ -3160,6 +3557,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "347",
                        "partId": "mouth-pincer",
                        "partName": "Pincer",
                        "class": "Bug",
@@ -3187,6 +3585,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "286",
                        "partId": "horn-pliers",
                        "partName": "Pliers",
                        "class": "Bug",
@@ -3214,6 +3613,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "349",
                        "partId": "tail-pupae",
                        "partName": "Pupae",
                        "class": "Bug",
@@ -3241,6 +3641,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "280",
                        "partId": "back-sandal",
                        "partName": "Sandal",
                        "class": "Bug",
@@ -3268,6 +3669,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "281",
                        "partId": "back-scarab",
                        "partName": "Scarab",
                        "class": "Bug",
@@ -3286,7 +3688,7 @@ module.exports = {
                          "effect": null
                        },
                        "cardImage": "bug-back-10.png",
-                       "cardText": "Gain 30 Shield. Apply {Doubt} for 4 turns.",
+                       "cardText": "Gain 40 Shield. Apply {Doubt} for 4 turns.",
                        "specialGenes": null,
                        "classification": {
                          "role": "Damage Dealer",
@@ -3295,6 +3697,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "345",
                        "partId": "back-snail-shell",
                        "partName": "Snail Shell",
                        "class": "Bug",
@@ -3322,13 +3725,14 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "282",
                        "partId": "back-spiky-wing",
                        "partName": "Spiky Wing",
                        "class": "Bug",
                        "partType": "back",
                        "cardName": "Spiky Wing",
                        "cardType": "attack",
-                       "cardDamage": "70",
+                       "cardDamage": "65",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
@@ -3349,6 +3753,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "290",
                        "partId": "mouth-square-teeth",
                        "partName": "Square Teeth",
                        "class": "Bug",
@@ -3376,6 +3781,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "425",
                        "partId": "ears-tassels",
                        "partName": "Tassels",
                        "class": "Bug",
@@ -3403,13 +3809,14 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "294",
                        "partId": "tail-thorny-caterpillar",
                        "partName": "Thorny Caterpillar",
                        "class": "Bug",
                        "partType": "tail",
                        "cardName": "Thorny Caterpillar",
                        "cardType": "attack",
-                       "cardDamage": "110",
+                       "cardDamage": "100",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "2",
@@ -3430,6 +3837,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "292",
                        "partId": "tail-twin-tail",
                        "partName": "Twin Tail",
                        "class": "Bug",
@@ -3457,6 +3865,91 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "545",
+                       "partId": "tail-aegis-talisman",
+                       "partName": "Aegis Talisman",
+                       "class": "Dawn",
+                       "partType": "tail",
+                       "cardName": "Aegis Talisman",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "65",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "skill,shield",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "dawn-tail-03.png",
+                       "cardText": "Target any ally.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "543",
+                       "partId": "back-magic-sack",
+                       "partName": "Magic Sack",
+                       "class": "Dawn",
+                       "partType": "back",
+                       "cardName": "Magic Sack",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "skill,card,copy,banish,retain_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "dawn-back-03.png",
+                       "cardText": "<Retain>. Pick a card. Next turn, add 2 copies of it to your hand. <Banish>.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Support",
+                         "speciality": "Tactical"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "539",
+                       "partId": "horn-rusty-helm",
+                       "partName": "Rusty Helm",
+                       "class": "Mech",
+                       "partType": "horn",
+                       "cardName": "Rusty Helm",
+                       "cardType": "attack",
+                       "cardDamage": "40",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,shield",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "mech-horn-03.png",
+                       "cardText": "Gain 40 Shield.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Offensive"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "299",
                        "partId": "horn-bamboo-shoot",
                        "partName": "Bamboo Shoot",
                        "class": "Plant",
@@ -3484,6 +3977,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "352",
                        "partId": "horn-beech",
                        "partName": "Beech",
                        "class": "Plant",
@@ -3511,6 +4005,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "497",
+                       "partId": "mouth-beetroot",
+                       "partName": "Beetroot",
+                       "class": "Plant",
+                       "partType": "mouth",
+                       "cardName": "Beetroot",
+                       "cardType": "attack",
+                       "cardDamage": "60",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,card,draw",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-mouth-01.png",
+                       "cardText": "Draw 1 Card.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Tactical"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "296",
                        "partId": "back-bidens",
                        "partName": "Bidens",
                        "class": "Plant",
@@ -3538,6 +4061,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "447",
                        "partId": "eyes-blossom",
                        "partName": "Blossom",
                        "class": "Plant",
@@ -3565,6 +4089,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "302",
                        "partId": "horn-cactus",
                        "partName": "Cactus",
                        "class": "Plant",
@@ -3592,6 +4117,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "308",
                        "partId": "tail-carrot",
                        "partName": "Carrot",
                        "class": "Plant",
@@ -3619,6 +4145,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "309",
                        "partId": "tail-cattail",
                        "partName": "Cattail",
                        "class": "Plant",
@@ -3646,6 +4173,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "460",
                        "partId": "ears-clover",
                        "partName": "Clover",
                        "class": "Plant",
@@ -3673,6 +4201,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "456",
                        "partId": "eyes-confused",
                        "partName": "Confused",
                        "class": "Plant",
@@ -3700,6 +4229,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "453",
                        "partId": "eyes-cucumber-slice",
                        "partName": "Cucumber Slice",
                        "class": "Plant",
@@ -3727,6 +4257,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "502",
+                       "partId": "back-forest-hero",
+                       "partName": "Forest Hero",
+                       "class": "Plant",
+                       "partType": "back",
+                       "cardName": "Forest Hero",
+                       "cardType": "attack",
+                       "cardDamage": "145",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "2",
+                       "tags": "attack,non_multihit,single_attack,no_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-back-03.png",
+                       "cardText": null,
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Unclassified"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "353",
                        "partId": "tail-hatsune",
                        "partName": "Hatsune",
                        "class": "Plant",
@@ -3754,13 +4313,14 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "306",
                        "partId": "mouth-herbivore",
                        "partName": "Herbivore",
                        "class": "Plant",
                        "partType": "mouth",
                        "cardName": "Herbivore",
                        "cardType": "attack",
-                       "cardDamage": "70",
+                       "cardDamage": "65",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
@@ -3781,6 +4341,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "472",
                        "partId": "ears-hollow",
                        "partName": "Hollow",
                        "class": "Plant",
@@ -3808,6 +4369,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "354",
                        "partId": "tail-hot-butt",
                        "partName": "Hot Butt",
                        "class": "Plant",
@@ -3835,6 +4397,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "467",
                        "partId": "ears-leafy",
                        "partName": "Leafy",
                        "class": "Plant",
@@ -3862,6 +4425,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "444",
                        "partId": "ears-lotus",
                        "partName": "Lotus",
                        "class": "Plant",
@@ -3889,6 +4453,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "499",
+                       "partId": "horn-mandarine",
+                       "partName": "Mandarine",
+                       "class": "Plant",
+                       "partType": "horn",
+                       "cardName": "Mandarine",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "skill,card",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-horn-03.png",
+                       "cardText": "<Innate>. Add 2 [Mandarine]s to your hand.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "298",
                        "partId": "back-mint",
                        "partName": "Mint",
                        "class": "Plant",
@@ -3916,6 +4509,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "438",
                        "partId": "eyes-papi",
                        "partName": "Papi",
                        "class": "Plant",
@@ -3943,13 +4537,42 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "498",
+                       "partId": "horn-persimmon",
+                       "partName": "Persimmon",
+                       "class": "Plant",
+                       "partType": "horn",
+                       "cardName": "Persimmon",
+                       "cardType": "attack",
+                       "cardDamage": "60",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,non_multihit,single_attack,no_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-horn-01.png",
+                       "cardText": "Target any Enemy.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Backdoor"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "311",
                        "partId": "tail-potato-leaf",
                        "partName": "Potato Leaf",
                        "class": "Plant",
                        "partType": "tail",
                        "cardName": "Potato Leaf",
                        "cardType": "attack",
-                       "cardDamage": "70",
+                       "cardDamage": "65",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "1",
@@ -3970,6 +4593,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "351",
                        "partId": "back-pumpkin",
                        "partName": "Pumpkin",
                        "class": "Plant",
@@ -3997,6 +4621,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "495",
+                       "partId": "eyes-risky-trunk",
+                       "partName": "Risky Trunk",
+                       "class": "Plant",
+                       "partType": "eyes",
+                       "cardName": "Risky Trunk",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "0",
+                       "cardHeal": "50",
+                       "cardEnergy": "2",
+                       "tags": "skill,heal",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-eyes-01.png",
+                       "cardText": "Heal all allies.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "470",
                        "partId": "ears-rosa",
                        "partName": "Rosa",
                        "class": "Plant",
@@ -4024,6 +4677,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "300",
                        "partId": "horn-rose-bud",
                        "partName": "Rose Bud",
                        "class": "Plant",
@@ -4051,6 +4705,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "465",
                        "partId": "ears-sakura",
                        "partName": "Sakura",
                        "class": "Plant",
@@ -4078,6 +4733,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "304",
                        "partId": "mouth-serious",
                        "partName": "Serious",
                        "class": "Plant",
@@ -4105,6 +4761,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "350",
                        "partId": "back-shiitake",
                        "partName": "Shiitake",
                        "class": "Plant",
@@ -4132,6 +4789,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "307",
                        "partId": "mouth-silence-whisper",
                        "partName": "Silence Whisper",
                        "class": "Plant",
@@ -4159,6 +4817,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "504",
+                       "partId": "tail-sprout",
+                       "partName": "Sprout",
+                       "class": "Plant",
+                       "partType": "tail",
+                       "cardName": "Sprout",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "40",
+                       "cardHeal": "40",
+                       "cardEnergy": "1",
+                       "tags": "skill,shield,heal",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-tail-01.png",
+                       "cardText": "Target any ally.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "301",
                        "partId": "horn-strawberry-shortcake",
                        "partName": "Strawberry Shortcake",
                        "class": "Plant",
@@ -4186,6 +4873,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "501",
+                       "partId": "back-succulent",
+                       "partName": "Succulent",
+                       "class": "Plant",
+                       "partType": "back",
+                       "cardName": "Succulent",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "40",
+                       "cardHeal": "0",
+                       "cardEnergy": "0",
+                       "tags": "skill,shield,banish",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "plant-back-01.png",
+                       "cardText": "<Banish>.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "295",
                        "partId": "back-turnip",
                        "partName": "Turnip",
                        "class": "Plant",
@@ -4213,6 +4929,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "297",
                        "partId": "back-watering-can",
                        "partName": "Watering Can",
                        "class": "Plant",
@@ -4240,6 +4957,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "303",
                        "partId": "horn-watermelon",
                        "partName": "Watermelon",
                        "class": "Plant",
@@ -4267,6 +4985,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "310",
                        "partId": "tail-yam",
                        "partName": "Yam",
                        "class": "Plant",
@@ -4294,6 +5013,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "305",
                        "partId": "mouth-zigzag",
                        "partName": "Zigzag",
                        "class": "Plant",
@@ -4321,6 +5041,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "355",
                        "partId": "back-bone-sail",
                        "partName": "Bone Sail",
                        "class": "Reptile",
@@ -4348,6 +5069,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "322",
                        "partId": "horn-bumpy",
                        "partName": "Bumpy",
                        "class": "Reptile",
@@ -4375,6 +5097,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "319",
                        "partId": "horn-cerastes",
                        "partName": "Cerastes",
                        "class": "Reptile",
@@ -4402,6 +5125,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "315",
                        "partId": "back-croc",
                        "partName": "Croc",
                        "class": "Reptile",
@@ -4429,6 +5153,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "474",
                        "partId": "ears-curved-spine",
                        "partName": "Curved Spine",
                        "class": "Reptile",
@@ -4456,6 +5181,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "464",
                        "partId": "ears-friezard",
                        "partName": "Friezard",
                        "class": "Reptile",
@@ -4483,6 +5209,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "458",
                        "partId": "eyes-gecko",
                        "partName": "Gecko",
                        "class": "Reptile",
@@ -4510,6 +5237,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "332",
                        "partId": "tail-gila",
                        "partName": "Gila",
                        "class": "Reptile",
@@ -4537,6 +5265,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "333",
                        "partId": "tail-grass-snake",
                        "partName": "Grass Snake",
                        "class": "Reptile",
@@ -4564,6 +5293,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "313",
                        "partId": "back-green-thorns",
                        "partName": "Green Thorns",
                        "class": "Reptile",
@@ -4591,6 +5321,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "524",
+                       "partId": "ears-hidden-ears",
+                       "partName": "Hidden Ears",
+                       "class": "Reptile",
+                       "partType": "ears",
+                       "cardName": "Hidden Ears",
+                       "cardType": "skill",
+                       "cardDamage": "0",
+                       "cardShield": "60",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "skill,shield,no_effect",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "reptile-ears-03.png",
+                       "cardText": "<Innate>.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Defender",
+                         "speciality": "Sustain"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "330",
                        "partId": "tail-iguana",
                        "partName": "Iguana",
                        "class": "Reptile",
@@ -4618,6 +5377,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "321",
                        "partId": "horn-incisor",
                        "partName": "Incisor",
                        "class": "Reptile",
@@ -4645,6 +5405,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "314",
                        "partId": "back-indian-star",
                        "partName": "Indian Star",
                        "class": "Reptile",
@@ -4672,6 +5433,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "325",
                        "partId": "mouth-kotaro",
                        "partName": "Kotaro",
                        "class": "Reptile",
@@ -4699,6 +5461,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "471",
                        "partId": "ears-pogona",
                        "partName": "Pogona",
                        "class": "Reptile",
@@ -4726,6 +5489,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "326",
                        "partId": "mouth-razor-bite",
                        "partName": "Razor Bite",
                        "class": "Reptile",
@@ -4753,6 +5517,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "357",
                        "partId": "back-red-ear",
                        "partName": "Red Ear",
                        "class": "Reptile",
@@ -4780,6 +5545,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "318",
                        "partId": "horn-scaly-spear",
                        "partName": "Scaly Spear",
                        "class": "Reptile",
@@ -4807,6 +5573,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "320",
                        "partId": "horn-scaly-spoon",
                        "partName": "Scaly Spoon",
                        "class": "Reptile",
@@ -4834,6 +5601,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "452",
                        "partId": "eyes-scar",
                        "partName": "Scar",
                        "class": "Reptile",
@@ -4861,6 +5629,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "429",
                        "partId": "ears-sidebarb",
                        "partName": "Sidebarb",
                        "class": "Reptile",
@@ -4888,6 +5657,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "450",
                        "partId": "ears-small-frill",
                        "partName": "Small Frill",
                        "class": "Reptile",
@@ -4915,6 +5685,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "358",
                        "partId": "tail-snake-jar",
                        "partName": "Snake Jar",
                        "class": "Reptile",
@@ -4942,6 +5713,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "432",
                        "partId": "ears-swirl",
                        "partName": "Swirl",
                        "class": "Reptile",
@@ -4969,6 +5741,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "331",
                        "partId": "tail-tiny-dino",
                        "partName": "Tiny Dino",
                        "class": "Reptile",
@@ -4996,6 +5769,35 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "528",
+                       "partId": "back-tiny-dino",
+                       "partName": "Tiny Dino",
+                       "class": "Reptile",
+                       "partType": "back",
+                       "cardName": "Tiny Dino",
+                       "cardType": "attack",
+                       "cardDamage": "65",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "1",
+                       "tags": "attack,multihit,single_attack",
+                       "summon": {
+                         "name": null,
+                         "class": null,
+                         "hp": null,
+                         "effect": null
+                       },
+                       "cardImage": "reptile-back-03.png",
+                       "cardText": "If <Initial>, deal 15 more DMG.",
+                       "specialGenes": null,
+                       "classification": {
+                         "role": "Damage Dealer",
+                         "speciality": "Offensive"
+                       },
+                       "cardIndesTier": null
+                     },
+                     {
+                       "id": "440",
                        "partId": "mouth-tiny-turtle",
                        "partName": "Tiny Turtle",
                        "class": "Reptile",
@@ -5023,6 +5825,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "323",
                        "partId": "mouth-toothless-bite",
                        "partName": "Toothless Bite",
                        "class": "Reptile",
@@ -5050,6 +5853,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "466",
                        "partId": "eyes-topaz",
                        "partName": "Topaz",
                        "class": "Reptile",
@@ -5077,6 +5881,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "312",
                        "partId": "back-tri-spikes",
                        "partName": "Tri Spikes",
                        "class": "Reptile",
@@ -5104,6 +5909,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "449",
                        "partId": "eyes-tricky",
                        "partName": "Tricky",
                        "class": "Reptile",
@@ -5131,6 +5937,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "316",
                        "partId": "horn-unko",
                        "partName": "Unko",
                        "class": "Reptile",
@@ -5158,6 +5965,7 @@ module.exports = {
                        "cardIndesTier": null
                      },
                      {
+                       "id": "328",
                        "partId": "tail-wall-gecko",
                        "partName": "Wall Gecko",
                        "class": "Reptile",
@@ -5187,36 +5995,66 @@ module.exports = {
                    ],
                    "toolCards": [
                      {
+                       "id": "13",
+                       "name": "Forest Breath",
+                       "cardDamage": "0",
+                       "cardShield": "0",
+                       "cardHeal": "50",
+                       "cardEnergy": "0",
+                       "description": "<Retain>.Target an ally. <Cleanse>.",
+                       "tags": "skill,retain_effect",
+                       "cardImage": "tool-forestbreath-02.png"
+                     },
+                     {
+                       "id": "14",
+                       "name": "Forest Wrath",
+                       "cardDamage": "30",
+                       "cardShield": "0",
+                       "cardHeal": "0",
+                       "cardEnergy": "0",
+                       "description": "Attack all enemies. Deal 10 bonus pure DMG per debuffed allies.",
+                       "tags": "attack",
+                       "cardImage": "tool-forestwrath-02.png"
+                     },
+                     {
+                       "id": "1",
                        "name": "Lumber Shield",
+                       "cardDamage": "0",
                        "cardShield": "12",
                        "cardHeal": "0",
                        "cardEnergy": "0",
                        "description": "<Retain>. Target any ally. <Banish>.",
-                       "tags": "skill,retain,banish",
+                       "tags": "skill,retain_effect,banish",
                        "cardImage": "tool-lumbershield-02.png"
                      },
                      {
+                       "id": "3",
                        "name": "Pure Water",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "6",
                        "cardEnergy": "0",
                        "description": "<Retain>. Target any ally. <Banish>.",
-                       "tags": "skill,retain,banish",
+                       "tags": "skill,retain_effect,banish",
                        "cardImage": "tool-purewater-02.png"
                      },
                      {
+                       "id": "2",
                        "name": "Strawberry",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "60",
                        "cardEnergy": "0",
                        "description": "<Retain>. Target any ally. <Banish>.",
-                       "tags": "skill,retain,banish",
+                       "tags": "skill,retain_effect,banish",
                        "cardImage": "tool-strawberry-02.png"
                      }
                    ],
                    "curseCards": [
                      {
+                       "id": "4",
                        "name": "Blackmail",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5225,7 +6063,9 @@ module.exports = {
                        "cardImage": "tool-blackmail-02.png"
                      },
                      {
+                       "id": "7",
                        "name": "Burn",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5234,7 +6074,9 @@ module.exports = {
                        "cardImage": "tool-burn-02.png"
                      },
                      {
+                       "id": "8",
                        "name": "Confused",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5243,7 +6085,9 @@ module.exports = {
                        "cardImage": "tool-confused-02.png"
                      },
                      {
+                       "id": "9",
                        "name": "Daze",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5252,7 +6096,9 @@ module.exports = {
                        "cardImage": "tool-daze-02.png"
                      },
                      {
+                       "id": "6",
                        "name": "Goo",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5261,7 +6107,9 @@ module.exports = {
                        "cardImage": "tool-goo-02.png"
                      },
                      {
+                       "id": "5",
                        "name": "Jinx",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5270,7 +6118,9 @@ module.exports = {
                        "cardImage": "tool-jinx-02.png"
                      },
                      {
+                       "id": "11",
                        "name": "Void",
+                       "cardDamage": "0",
                        "cardShield": "0",
                        "cardHeal": "0",
                        "cardEnergy": "X",
@@ -5281,232 +6131,1640 @@ module.exports = {
                    ],
                    "abilities": [
                      {
+                       "id": "4",
                        "name": "Bubble",
                        "type": "Buff",
                        "description": "Block 5 DMG/stack. Max: 3 stack. Turn into Bubble Bomb upon reaching 3 stacks.",
                        "image": "buff_bubble.png"
                      },
                      {
+                       "id": "5",
                        "name": "Bubble Bomb",
                        "type": "Buff",
                        "description": "Next attack explodes Bubble Bomb and deals 20 DMG to all Enemies.",
                        "image": "buff_bubble_bomb.png"
                      },
                      {
+                       "id": "8",
                        "name": "Cleanser",
                        "type": "Buff",
                        "description": "Each stack negates 1 debuff applied on the target.",
                        "image": "buff_cleanser.png"
                      },
                      {
+                       "id": "9",
                        "name": "Damage Boost",
                        "type": "Buff",
-                       "description": "The target has attack damage increased by X.",
+                       "description": "The target has Attack DMG increased by 1 per stack.",
                        "image": "buff_damage_boost.png"
                      },
                      {
+                       "id": "6",
                        "name": "Feather",
                        "type": "Buff",
                        "description": "When Axie does an attack, consume all Feather stacks to deal 2 bonus DMG per stack and heal 2 HP per stack. Max : 10 stack.",
                        "image": "buff_feather.png"
                      },
                      {
+                       "id": "10",
                        "name": "Healing Boost",
                        "type": "Buff",
-                       "description": "The target has HP healed from cards increased by X.",
+                       "description": "Increase healing card effects to this unit by 1 HP per stack.",
                        "image": "buff_healing_boost.png"
                      },
                      {
+                       "id": "3",
                        "name": "Leaf",
                        "type": "Buff",
                        "description": "Regen 5 HP at the end of your turn. Max stack: 5",
                        "image": "buff_leaf.png"
                      },
                      {
+                       "id": "38",
                        "name": "Meditate",
                        "type": "Buff",
                        "description": "Meditate for 2 turns. If attacked while Meditating, awake and gain 3 Rage. If not, Cleanse 1 debuff and gain 1 Energy after effect ends.",
                        "image": "buff_meditate.png"
                      },
                      {
-                       "name": "Power Awaken",
-                       "type": "Buff",
-                       "description": "Next attack deal x more DMG",
-                       "image": "buff_power_awaken.png"
-                     },
-                     {
+                       "id": "1",
                        "name": "Rage",
                        "type": "Buff",
                        "description": "DMG is increases by 2 per Rage stack. Transform into Fury Form when reaches 10 Rage stack.",
                        "image": "buff_rage.png"
                      },
                      {
+                       "id": "11",
                        "name": "Shield Boost",
                        "type": "Buff",
-                       "description": "The target has Shield gains from cards increased by X.",
+                       "description": "The target has Shield gained from cards increased by 1 per stack.",
                        "image": "buff_shield_boost.png"
                      },
                      {
+                       "id": "7",
                        "name": "Stealth",
                        "type": "Buff",
                        "description": "The target cannot be targeted directly. If it uses a card, remove Stealth.",
                        "image": "buff_stealth.png"
                      },
                      {
+                       "id": "28",
                        "name": "Banish",
                        "type": "Card Property",
                        "description": "Remove the card from your deck until the end of battle.",
                        "image": ""
                      },
                      {
+                       "id": "29",
                        "name": "Cleanse",
                        "type": "Card Property",
                        "description": "Remove debuffs from target, up to 5 stacks.",
                        "image": ""
                      },
                      {
+                       "id": "31",
                        "name": "Deck",
                        "type": "Card Property",
                        "description": "Includes cards in Draw Pile and Discard Pile.",
                        "image": ""
                      },
                      {
+                       "id": "30",
                        "name": "Dispel",
                        "type": "Card Property",
                        "description": "Remove 1 buff from target, up to 5 stacks.",
                        "image": ""
                      },
                      {
+                       "id": "32",
                        "name": "Ethereal",
                        "type": "Card Property",
                        "description": "When your turn ends, if the card is still in your hand, banish it. Banished cards are removed from your deck until the end of battle.",
                        "image": ""
                      },
                      {
+                       "id": "33",
                        "name": "Initial",
                        "type": "Card Property",
                        "description": "The first card played in a turn.",
                        "image": ""
                      },
                      {
+                       "id": "34",
                        "name": "Innate",
                        "type": "Card Property",
                        "description": "Start each battle with this card in your hand.",
                        "image": ""
                      },
                      {
+                       "id": "35",
                        "name": "Retain",
                        "type": "Card Property",
                        "description": "Do not discard the card at the end of your turn.",
                        "image": ""
                      },
                      {
+                       "id": "37",
                        "name": "Scry",
                        "type": "Card Property",
                        "description": "Look at the top cards of your draw pile. You may discard any of them.",
                        "image": ""
                      },
                      {
+                       "id": "39",
+                       "name": "Solo",
+                       "type": "Card Property",
+                       "description": "Only 1 Axie per team can have this Effect activated.",
+                       "image": ""
+                     },
+                     {
+                       "id": "36",
                        "name": "Unplayable",
                        "type": "Card Property",
                        "description": "The card cannot be played.",
                        "image": ""
                      },
                      {
+                       "id": "14",
                        "name": "Bleed",
                        "type": "Debuff",
                        "description": "Whenever the target uses a card, it loses 15HP.",
                        "image": "debuff_bleed.png"
                      },
                      {
+                       "id": "15",
                        "name": "Death Mark",
                        "type": "Debuff",
                        "description": "Whenever opponent plays an Attack Card, the target take 13 DMG per Energy spent.",
                        "image": "debuff_death_mark.png"
                      },
                      {
+                       "id": "23",
                        "name": "Disarmed",
                        "type": "Debuff",
                        "description": "The target cannot use Attack cards.",
                        "image": "debuff_disarmed.png"
                      },
                      {
+                       "id": "25",
                        "name": "Doubt",
                        "type": "Debuff",
                        "description": "The target gains 20% less HP from Healing.",
                        "image": "debuff_doubt.png"
                      },
                      {
+                       "id": "21",
                        "name": "Fear",
                        "type": "Debuff",
                        "description": "Whenever the target uses an Attack card, shuffle a Confused into its draw pile.",
                        "image": "debuff_fear.png"
                      },
                      {
+                       "id": "19",
                        "name": "Fragile",
                        "type": "Debuff",
                        "description": "The target gains 20% less Shield from cards.",
                        "image": "debuff_fragile.png"
                      },
                      {
+                       "id": "26",
                        "name": "Heal Block",
                        "type": "Debuff",
                        "description": "The target cannot be healed.",
                        "image": "debuff_heal_block.png"
                      },
                      {
+                       "id": "22",
                        "name": "Hex",
                        "type": "Debuff",
                        "description": "Whenever the target uses a non-Attack card, shuffle a Confused into its draw pile.",
                        "image": "debuff_hex.png"
                      },
                      {
+                       "id": "13",
                        "name": "Poison",
                        "type": "Debuff",
                        "description": "At the start of its turn, the target loses 3 HP per stack and stacks are reduced by 1. Max: 30 stacks.",
                        "image": "debuff_poison.png"
                      },
                      {
+                       "id": "24",
                        "name": "Silence",
                        "type": "Debuff",
                        "description": "The target cannot use non-Attack cards.",
                        "image": "debuff_silence.png"
                      },
                      {
+                       "id": "16",
                        "name": "Sleep",
                        "type": "Debuff",
                        "description": "The target cannot use cards. If it is attacked, remove Sleep.",
                        "image": "debuff_sleep.png"
                      },
                      {
+                       "id": "17",
                        "name": "Stunned",
                        "type": "Debuff",
                        "description": "The target cannot perform any action.",
                        "image": "debuff_stunned.png"
                      },
                      {
+                       "id": "18",
                        "name": "Vulnerable",
                        "type": "Debuff",
                        "description": "The target receives 20% more attack damage.",
                        "image": "debuff_vulnerable.png"
                      },
                      {
+                       "id": "20",
                        "name": "Weak",
                        "type": "Debuff",
                        "description": "The target deals 20% less attack damage.",
                        "image": "debuff_weak.png"
                      },
                      {
+                       "id": "27",
                        "name": "Taunt",
                        "type": "Neutral",
                        "description": "The target is always targeted by enemy's attack abilities.",
                        "image": "neutral_taunt.png"
                      },
                      {
+                       "id": "2",
                        "name": "Fury",
                        "type": "Transform/Buff",
                        "description": "Gain 1 Energy when transforms. Deal double damage and last for 1 turn.",
                        "image": "buff_fury.png"
+                     }
+                   ],
+                   "runes": [
+                     {
+                       "id": "10",
+                       "name": "Leftover Potion",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "Recover 4% of max HP at the end of your turn.",
+                       "image": "rune_neutral_utility_1.png"
+                     },
+                     {
+                       "id": "9",
+                       "name": "Mini Legion",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "Summoned units have +10 max HP. Deal +2 DMG per Summon to all Enemies at the beginning of your turn.",
+                       "image": "rune_neutral_hybrid_1.png"
+                     },
+                     {
+                       "id": "8",
+                       "name": "Thick Shield",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "Gain 10 bonus Shield from cards.",
+                       "image": "rune_neutral_defensive_1.png"
+                     },
+                     {
+                       "id": "7",
+                       "name": "Tough Strike",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "Non Multihit Attack Abilities deal 10 bonus DMG.",
+                       "image": "rune_neutral_offensive_1.png"
+                     },
+                     {
+                       "id": "13",
+                       "name": "Pure Instinct",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "All cards gain 15% {Class Bonus}.",
+                       "image": "rune_neutral_hybrid_2.png"
+                     },
+                     {
+                       "id": "14",
+                       "name": "Shady Exchange",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "{Solo}. +1 energy on even numbered turns.\nAdd 1 [Daze], 1 [Goo], 1 [Void] to your deck.",
+                       "image": "rune_neutral_utility_2.png"
+                     },
+                     {
+                       "id": "11",
+                       "name": "Pure Power",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "Attack Abilities gain 15% {Class Bonus}.",
+                       "image": "rune_neutral_offensive_2.png"
+                     },
+                     {
+                       "id": "12",
+                       "name": "Pure Skill",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "Heal and Shield Abilities gain 15% {Class Bonus}.",
+                       "image": "rune_neutral_defensive_2.png"
+                     },
+                     {
+                       "id": "21",
+                       "name": "Bloodlust",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Non-Multihit Attacks {Steal} 15 HP. Multihit Attacks {Steal} 4 HP per hit.",
+                       "image": "rune_aquatic_hybrid_1.png"
+                     },
+                     {
+                       "id": "22",
+                       "name": "Heart of Ocean",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "Increase all Axies' max HP by 75.",
+                       "image": "rune_aquatic_utility_1.png"
+                     },
+                     {
+                       "id": "20",
+                       "name": "Calcium Armor",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Axie HP +30\nAt the beginning of your turn, gain Shield equal to 3% of max HP.",
+                       "image": "rune_aquatic_defensive_1.png"
+                     },
+                     {
+                       "id": "19",
+                       "name": "Hearty Warrior",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Axie max HP +30\nAttack cards deal bonus DMG equal to 3% of remaining HP.",
+                       "image": "rune_aquatic_offensive_1.png"
+                     },
+                     {
+                       "id": "17",
+                       "name": "Dominant Predator",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Deal 20% more DMG against Bleeding Enemies\nTake 10% less DMG from Bleeding Enemies",
+                       "image": "rune_beast_hybrid_1.png"
+                     },
+                     {
+                       "id": "18",
+                       "name": "Endless Anger",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "Gain 3 {Rage} when your turn starts. Each {Rage} grant 1 bonus DMG.",
+                       "image": "rune_beast_utility_1.png"
+                     },
+                     {
+                       "id": "16",
+                       "name": "Pangolin Scale",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Cannot gain Shield. Take 25% less DMG.",
+                       "image": "rune_beast_defensive_1.png"
+                     },
+                     {
+                       "id": "15",
+                       "name": "Reckless Hunter",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Deal 20% more DMG.\r\nTake 10% more DMG.",
+                       "image": "rune_beast_offensive_1.png"
+                     },
+                     {
+                       "id": "29",
+                       "name": "Raven's Tactic",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Deal 20% bonus DMG if HP is above 50%. Take 20% less DMG if HP is below 50%.",
+                       "image": "rune_bird_hybrid_1.png"
+                     },
+                     {
+                       "id": "30",
+                       "name": "Feather Descend",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "When your turn starts, grant 2 {Feather} to your team.",
+                       "image": "rune_bird_utility_1.png"
+                     },
+                     {
+                       "id": "27",
+                       "name": "Energy Guru",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Attack cards also deal 5 DMG per Energy Cost to all Enemies.",
+                       "image": "rune_bird_offensive_1.png"
+                     },
+                     {
+                       "id": "28",
+                       "name": "Venom Born",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "{Poison} on this Axie grants \"Healing 1 HP per stack\" instead of HP loss.",
+                       "image": "rune_bird_defensive_1.png"
+                     },
+                     {
+                       "id": "34",
+                       "name": "Collect And Protect",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "In odd Rounds, draw 1 Additional Card when your turn starts. In even Rounds, gain 30 Shield when your turn starts.",
+                       "image": "rune_bug_utility_1.png"
+                     },
+                     {
+                       "id": "31",
+                       "name": "Sturdy Fighter",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "Non-Multihit Attack cards deal bonus DMG equal to current Shield.",
+                       "image": "rune_bug_offensive_1.png"
+                     },
+                     {
+                       "id": "33",
+                       "name": "Shield Leecher",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "When your turn starts, steal 50% Shield from the Enemy with the highest Shield.",
+                       "image": "rune_bug_hybrid_1.png"
+                     },
+                     {
+                       "id": "32",
+                       "name": "Vault Builder",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "When your turn ends, gain Shield equal to (3 x the number of cards in your Discard Pile).",
+                       "image": "rune_bug_defensive_1.png"
+                     },
+                     {
+                       "id": "45",
+                       "name": "Heaven's Echoes",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Your allies gain 1 {Damage Boost} whenever this Axie attacks. Your allies gain 8 Shield whenever this Axie uses a Skill.",
+                       "image": "rune_dawn_hybrid_1.png"
+                     },
+                     {
+                       "id": "46",
+                       "name": "Holy Prayer",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "{Solo}. When your turn starts, remove 1 Curse in your {Deck}. Heal all teammates for 30 HP when successfully removing a Curse.",
+                       "image": "rune_dawn_utility_1.png"
+                     },
+                     {
+                       "id": "44",
+                       "name": "Arcane Protection",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Take 5% less DMG per Buff on this Axie (capped at 20%).",
+                       "image": "rune_dawn_defensive_1.png"
+                     },
+                     {
+                       "id": "43",
+                       "name": "Celestial Might",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Deal 5% more DMG per Buff on this Axie (capped at 20%).",
+                       "image": "rune_dawn_offensive_1.png"
+                     },
+                     {
+                       "id": "49",
+                       "name": "Malediction",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Deal 10% more DMG against debuffed Enemies. Take 20% less DMG from debuffed Enemies",
+                       "image": "rune_dusk_hybrid_1.png"
+                     },
+                     {
+                       "id": "50",
+                       "name": "Gloomy Dice",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "In Odd Rounds, apply {Hex} to all enemies for 2 turns at the start of your turn.\nIn Even Rounds, apply {Fear} to all enemies for 2 turns at the start of your turn.",
+                       "image": "rune_dusk_utility_1.png"
+                     },
+                     {
+                       "id": "47",
+                       "name": "Cursed Ritual",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Attacks deal 3 bonus DMG per Curse Ability in your {Deck} (capped at 15 DMG).",
+                       "image": "rune_dusk_offensive_1.png"
+                     },
+                     {
+                       "id": "48",
+                       "name": "Wicked Ward",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Gain 15 Shield whenever you play a Curse card.",
+                       "image": "rune_dusk_defensive_1.png"
+                     },
+                     {
+                       "id": "41",
+                       "name": "Adaptive Program",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Gain 10 bonus Shield from cards. Gain 3 {Damage Boost} whenever using a Shield card.",
+                       "image": "rune_mech_hybrid_1.png"
+                     },
+                     {
+                       "id": "42",
+                       "name": "Shield Backup",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "This Axie's Shield isn't removed when your enemy's turn ends.\nShield can absorb 50% more DMG.",
+                       "image": "rune_mech_utility_1.png"
+                     },
+                     {
+                       "id": "40",
+                       "name": "Last Stand",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "When taking a fatal hit, survive with 1 HP until end of turn (active 1 time per battle).\nAfter that, apply an irremovable {Heal Block}.",
+                       "image": "rune_mech_defensive_1.png"
+                     },
+                     {
+                       "id": "39",
+                       "name": "Zap Armor",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Deal 20% more DMG if this Axie has Shield.",
+                       "image": "rune_mech_offensive_1.png"
+                     },
+                     {
+                       "id": "25",
+                       "name": "Rise And Ruin",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Add [Forest Breath] and [Forest Wrath] to your deck.",
+                       "image": "rune_plant_hybrid_1.png"
+                     },
+                     {
+                       "id": "24",
+                       "name": "Gaia's Embrace",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "Shield cards also restore HP equal to 100% of shield gained but grant 25% less shield.",
+                       "image": "rune_plant_defensive_1.png"
+                     },
+                     {
+                       "id": "26",
+                       "name": "Healing Pulse",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "All teammates regen 8 HP when your turn ends. Increase healing card effects by 20%.",
+                       "image": "rune_plant_utility_1.png"
+                     },
+                     {
+                       "id": "23",
+                       "name": "Miracle Leaf",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Start Battle with 3 {Leaf}. Non-Multihit Attacks consume 1 {Leaf} and deal 15 bonus DMG",
+                       "image": "rune_plant_offensive_1.png"
+                     },
+                     {
+                       "id": "37",
+                       "name": "Poison Touch",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "Apply 1 {Poison} to Attacker. Take 20% less DMG from poisoned enemies.",
+                       "image": "rune_reptile_hybrid_1.png"
+                     },
+                     {
+                       "id": "38",
+                       "name": "Regenerator",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "When your turn start, {Cleanse} 2 random debuffs if HP is full or recover 10% of max HP if HP isn't full.",
+                       "image": "rune_reptile_utility_1.png"
+                     },
+                     {
+                       "id": "36",
+                       "name": "Delayed Protection",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "When your turn starts, gain 12 Shield for each attack this Axie took in the previous turn.",
+                       "image": "rune_reptile_defensive_1.png"
+                     },
+                     {
+                       "id": "35",
+                       "name": "Venom Master",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "Attack cards apply 1 additional {Poison}.\nNon-Multihit Attacks deal 1 bonus DMG per 2 {Poison} on target.",
+                       "image": "rune_reptile_offensive_1.png"
+                     }
+                   ],
+                   "charms": [
+                     {
+                       "id": "10",
+                       "name": "Charm of Endurance I",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "(Enhance a Shielding card)\nShield Stat +2",
+                       "potentialCost": "1",
+                       "image": "endurance-1.png"
+                     },
+                     {
+                       "id": "13",
+                       "name": "Charm of Faith I",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "(Enhance a Healing card)\nHeal Stat +2",
+                       "potentialCost": "1",
+                       "image": "faith-1.png"
+                     },
+                     {
+                       "id": "7",
+                       "name": "Charm of Focus I",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +1",
+                       "potentialCost": "1",
+                       "image": "focus-1.png"
+                     },
+                     {
+                       "id": "4",
+                       "name": "Charm of Power I",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +2",
+                       "potentialCost": "1",
+                       "image": "power-1.png"
+                     },
+                     {
+                       "id": "1",
+                       "name": "Charm of Vitality I",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Common",
+                       "effect": "Axie's HP +5",
+                       "potentialCost": "1",
+                       "image": "vitality-1.png"
+                     },
+                     {
+                       "id": "12",
+                       "name": "Charm of Endurance III",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Shielding card)\nShield stat +7",
+                       "potentialCost": "3",
+                       "image": "endurance-3.png"
+                     },
+                     {
+                       "id": "15",
+                       "name": "Charm of Faith III",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Healing card)\nHeal stat +7",
+                       "potentialCost": "3",
+                       "image": "faith-3.png"
+                     },
+                     {
+                       "id": "9",
+                       "name": "Charm of Focus III",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +3",
+                       "potentialCost": "3",
+                       "image": "focus-3.png"
+                     },
+                     {
+                       "id": "6",
+                       "name": "Charm of Power III",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Non-Multihit attack card)\nATK +7",
+                       "potentialCost": "3",
+                       "image": "power-3.png"
+                     },
+                     {
+                       "id": "3",
+                       "name": "Charm of Vitality III",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAxie's HP +25",
+                       "potentialCost": "3",
+                       "image": "vitality-3.png"
+                     },
+                     {
+                       "id": "17",
+                       "name": "Moon Stamp",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance Single Target Attack Abilities)\r\nChange ability target to the second frontmost one.",
+                       "potentialCost": "4",
+                       "image": "moon-stamp.png"
+                     },
+                     {
+                       "id": "18",
+                       "name": "Sun Stamp",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Epic",
+                       "effect": "(Enhance single-target attack cards)\nThis card targets the furthest enemy.",
+                       "potentialCost": "4",
+                       "image": "sun-stamp.png"
+                     },
+                     {
+                       "id": "20",
+                       "name": "Discount Coupon",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\n-1 energy cost. Card's base stat -40%.",
+                       "potentialCost": "5",
+                       "image": "discount-coupon.png"
+                     },
+                     {
+                       "id": "23",
+                       "name": "Energy Drink M",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Banish}. Card's base stat +20%.",
+                       "potentialCost": "5",
+                       "image": "energy-drink-m.png"
+                     },
+                     {
+                       "id": "24",
+                       "name": "Energy Drink S",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd Ethereal. Card's base stat +10%.",
+                       "potentialCost": "5",
+                       "image": "energy-drink-s.png"
+                     },
+                     {
+                       "id": "21",
+                       "name": "Pre-Order Tag",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Innate}.",
+                       "potentialCost": "5",
+                       "image": "pre-order-tag.png"
+                     },
+                     {
+                       "id": "19",
+                       "name": "Rocket Stamp",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance single-target attack cards)\nThis card can target any enemy.",
+                       "potentialCost": "5",
+                       "image": "rocket-stamp.png"
+                     },
+                     {
+                       "id": "22",
+                       "name": "Scotch Tape",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "5",
+                       "image": "scotch-tape.png"
+                     },
+                     {
+                       "id": "11",
+                       "name": "Charm of Endurance II",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Shielding card)\nShield Stat +4",
+                       "potentialCost": "2",
+                       "image": "endurance-2.png"
+                     },
+                     {
+                       "id": "14",
+                       "name": "Charm of Faith II",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Healing card)\nHeal Stat +4",
+                       "potentialCost": "2",
+                       "image": "faith-2.png"
+                     },
+                     {
+                       "id": "8",
+                       "name": "Charm of Focus II",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +2",
+                       "potentialCost": "2",
+                       "image": "focus-2.png"
+                     },
+                     {
+                       "id": "5",
+                       "name": "Charm of Power II",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +4",
+                       "potentialCost": "2",
+                       "image": "power-2.png"
+                     },
+                     {
+                       "id": "2",
+                       "name": "Charm of Vitality II",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "Axie's HP +15",
+                       "potentialCost": "2",
+                       "image": "vitality-2.png"
+                     },
+                     {
+                       "id": "16",
+                       "name": "Earth Stamp",
+                       "class": "Neutral",
+                       "isBlockchain": "0",
+                       "rarity": "Rare",
+                       "effect": "(Enhance Single Target Attack Abilities)\nChange ability target to the frontmost one.",
+                       "potentialCost": "3",
+                       "image": "earth-stamp.png"
+                     },
+                     {
+                       "id": "44",
+                       "name": "Aquatic Talisman of Power V",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +10",
+                       "potentialCost": "3",
+                       "image": "aquatic-talisman-power-5.png"
+                     },
+                     {
+                       "id": "42",
+                       "name": "Aquatic Talisman of Vitality V",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAxie's max HP +35",
+                       "potentialCost": "3",
+                       "image": "aquatic-talisman-vitality-5.png"
+                     },
+                     {
+                       "id": "47",
+                       "name": "Bubble Paste",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAll teammates gain 1 {Bubble}.",
+                       "potentialCost": "4",
+                       "image": "bubble-paste.png"
+                     },
+                     {
+                       "id": "45",
+                       "name": "Aquatic Energy Drink S",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Ethereal}. Card's base stat +10%.",
+                       "potentialCost": "4",
+                       "image": "aquatic-energy-drink-s.png"
+                     },
+                     {
+                       "id": "46",
+                       "name": "Sticky Octopus",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "4",
+                       "image": "sticky-octopus.png"
+                     },
+                     {
+                       "id": "48",
+                       "name": "Paralyze Jelly Fish",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Attack card)\nAttack applies {Vulnerable} for 2 turns.",
+                       "potentialCost": "5",
+                       "image": "paralyze-jelly-fish.png"
+                     },
+                     {
+                       "id": "43",
+                       "name": "Aquatic Talisman of Power IV",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +6",
+                       "potentialCost": "2",
+                       "image": "aquatic-talisman-power-4.png"
+                     },
+                     {
+                       "id": "41",
+                       "name": "Aquatic Talisman of Vitality IV",
+                       "class": "Aquatic",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance any card)\nAxie's max HP +20",
+                       "potentialCost": "2",
+                       "image": "aquatic-talisman-vitality-4.png"
+                     },
+                     {
+                       "id": "34",
+                       "name": "Beast Talisman of Power V",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +10",
+                       "potentialCost": "3",
+                       "image": "beast-talisman-power-5.png"
+                     },
+                     {
+                       "id": "36",
+                       "name": "Beast Talisman of Vitality V",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAxie's max HP +35",
+                       "potentialCost": "3",
+                       "image": "beast-talisman-vitality-5.png"
+                     },
+                     {
+                       "id": "39",
+                       "name": "Mask of Frenzy",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAll teammates gain 1 {Rage}.",
+                       "potentialCost": "4",
+                       "image": "mask-of-frenzy.png"
+                     },
+                     {
+                       "id": "37",
+                       "name": "Beast Energy Drink M",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Banish}. Card's base stat +20%.",
+                       "potentialCost": "4",
+                       "image": "beast-energy-drink-m.png"
+                     },
+                     {
+                       "id": "38",
+                       "name": "Beast Energy Drink S",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Ethereal}. Card's base stat +10%.",
+                       "potentialCost": "4",
+                       "image": "beast-energy-drink-s.png"
+                     },
+                     {
+                       "id": "40",
+                       "name": "Hidden Razor",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance an Attack card)\nAttacks apply {Bleed} for 2 turns.",
+                       "potentialCost": "5",
+                       "image": "hidden-razor.png"
+                     },
+                     {
+                       "id": "33",
+                       "name": "Beast Talisman of Power IV",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +6",
+                       "potentialCost": "2",
+                       "image": "beast-talisman-power-4.png"
+                     },
+                     {
+                       "id": "35",
+                       "name": "Beast Talisman of Vitality IV",
+                       "class": "Beast",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance any card)\nAxie's max HP +20",
+                       "potentialCost": "2",
+                       "image": "beast-talisman-vitality-4.png"
+                     },
+                     {
+                       "id": "60",
+                       "name": "Bird Talisman of Focus V",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance Multihit Attack Ability)\r\nATK +4",
+                       "potentialCost": "3",
+                       "image": "bird-talisman-focus-5.png"
+                     },
+                     {
+                       "id": "58",
+                       "name": "Bird Talisman of Power V",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance Non-Multihit Attack Ability)\r\nATK +10",
+                       "potentialCost": "3",
+                       "image": "bird-talisman-power-5.png"
+                     },
+                     {
+                       "id": "63",
+                       "name": "Feather Fan",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any Abilities)\nAll teammates gain 1 Feather.",
+                       "potentialCost": "4",
+                       "image": "feather-fan.png"
+                     },
+                     {
+                       "id": "62",
+                       "name": "Bird Energy Drink S",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Abilities)\r\nAdd Ethereal. Card's base stat +10%.",
+                       "potentialCost": "4",
+                       "image": "bird-energy-drink-s.png"
+                     },
+                     {
+                       "id": "61",
+                       "name": "Secret Egg",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Abilities)\r\nAdd Innate.",
+                       "potentialCost": "4",
+                       "image": "secret-egg.png"
+                     },
+                     {
+                       "id": "64",
+                       "name": "Flamingo Hammer",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance Attack Abilities)\r\nAttack applies Fragile for 2 turns.",
+                       "potentialCost": "5",
+                       "image": "flamingo-hammer.png"
+                     },
+                     {
+                       "id": "59",
+                       "name": "Bird Talisman of Focus IV",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance Multihit Attack Ability)\r\nATK +3",
+                       "potentialCost": "2",
+                       "image": "bird-talisman-focus-4.png"
+                     },
+                     {
+                       "id": "57",
+                       "name": "Bird Talisman of Power IV",
+                       "class": "Bird",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance Non-Multihit Attack Ability)\r\nATK +6",
+                       "potentialCost": "2",
+                       "image": "bird-talisman-power-4.png"
+                     },
+                     {
+                       "id": "50",
+                       "name": "Bug Talisman of Endurance V",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Shielding card)\nShield Stat +10",
+                       "potentialCost": "3",
+                       "image": "bug-talisman-endurance-5.png"
+                     },
+                     {
+                       "id": "52",
+                       "name": "Bug Talisman of Power V",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +10",
+                       "potentialCost": "3",
+                       "image": "bug-talisman-power-5.png"
+                     },
+                     {
+                       "id": "55",
+                       "name": "Trickster's Card",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nDraw 1 Card",
+                       "potentialCost": "4",
+                       "image": "tricksters-card.png"
+                     },
+                     {
+                       "id": "54",
+                       "name": "Bug Energy Drink M",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Banish}. Card's base stat +20%.",
+                       "potentialCost": "4",
+                       "image": "bug-energy-drink-m.png"
+                     },
+                     {
+                       "id": "53",
+                       "name": "Secret Cocoon",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Innate}.",
+                       "potentialCost": "4",
+                       "image": "secret-cocoon.png"
+                     },
+                     {
+                       "id": "56",
+                       "name": "Lazy Snail",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Attack card)\nAttack applies {Weak} for 2 turns.",
+                       "potentialCost": "5",
+                       "image": "lazy-snail.png"
+                     },
+                     {
+                       "id": "49",
+                       "name": "Bug Talisman of Endurance IV",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Shielding card)\nShield Stat +6",
+                       "potentialCost": "2",
+                       "image": "bug-talisman-endurance-4.png"
+                     },
+                     {
+                       "id": "51",
+                       "name": "Bug Talisman of Power IV",
+                       "class": "Bug",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +6",
+                       "potentialCost": "2",
+                       "image": "bug-talisman-power-4.png"
+                     },
+                     {
+                       "id": "84",
+                       "name": "Dawn Talisman of Faith V",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Healing card)\nHeal Stat +10",
+                       "potentialCost": "3",
+                       "image": "dawn-talisman-faith-5.png"
+                     },
+                     {
+                       "id": "82",
+                       "name": "Dawn Talisman of Focus V",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +4",
+                       "potentialCost": "3",
+                       "image": "dawn-talisman-focus-5.png"
+                     },
+                     {
+                       "id": "87",
+                       "name": "Bean's Blessing",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAll teammates gain 2 {Healing Boost}.",
+                       "potentialCost": "4",
+                       "image": "beans-blessing.png"
+                     },
+                     {
+                       "id": "86",
+                       "name": "Dawn Energy Drink S",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Ethereal}. Card's base stat +10%.",
+                       "potentialCost": "4",
+                       "image": "dawn-energy-drink-s.png"
+                     },
+                     {
+                       "id": "85",
+                       "name": "Wooden Idol",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "4",
+                       "image": "wooden-idol.png"
+                     },
+                     {
+                       "id": "88",
+                       "name": "Silent Insence",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Attack card)\nAttack applies {Silence} for 2 turns to the frontmost enemy.",
+                       "potentialCost": "5",
+                       "image": "silent-incense.png"
+                     },
+                     {
+                       "id": "83",
+                       "name": "Dawn Talisman of Faith IV",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Healing card)\nHeal Stat +6",
+                       "potentialCost": "2",
+                       "image": "dawn-talisman-faith-4.png"
+                     },
+                     {
+                       "id": "81",
+                       "name": "Dawn Talisman of Focus IV",
+                       "class": "Dawn",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +3",
+                       "potentialCost": "2",
+                       "image": "dawn-talisman-focus-4.png"
+                     },
+                     {
+                       "id": "92",
+                       "name": "Dusk Talisman of Focus V",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +4",
+                       "potentialCost": "3",
+                       "image": "dusk-talisman-focus-5.png"
+                     },
+                     {
+                       "id": "90",
+                       "name": "Dusk Talisman of Power V",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +10",
+                       "potentialCost": "3",
+                       "image": "dusk-talisman-power-5.png"
+                     },
+                     {
+                       "id": "95",
+                       "name": "Power Spell",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAll teammates gain 2 {Damage Boost}.",
+                       "potentialCost": "4",
+                       "image": "power-spell.png"
+                     },
+                     {
+                       "id": "93",
+                       "name": "Cursed Doll",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "4",
+                       "image": "cursed-doll.png"
+                     },
+                     {
+                       "id": "94",
+                       "name": "Dusk Energy Drink M",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Banish}. Card's base stat +20%.",
+                       "potentialCost": "4",
+                       "image": "dusk-energy-drink-m.png"
+                     },
+                     {
+                       "id": "96",
+                       "name": "Arid Spell",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Attack card)\nAttack applies {Doubt} for 2 turns.",
+                       "potentialCost": "5",
+                       "image": "arid-spell.png"
+                     },
+                     {
+                       "id": "91",
+                       "name": "Dusk Talisman of Focus IV",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Multihit Attack card)\nATK +3",
+                       "potentialCost": "2",
+                       "image": "dusk-talisman-focus-4.png"
+                     },
+                     {
+                       "id": "89",
+                       "name": "Dusk Talisman of Power IV",
+                       "class": "Dusk",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +6",
+                       "potentialCost": "2",
+                       "image": "dusk-talisman-power-4.png"
+                     },
+                     {
+                       "id": "76",
+                       "name": "Mech Talisman of Endurance V",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Shielding card)\nShield Stat +10",
+                       "potentialCost": "3",
+                       "image": "mech-talisman-endurance-5.png"
+                     },
+                     {
+                       "id": "74",
+                       "name": "Mech Talisman of Power V",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +10",
+                       "potentialCost": "3",
+                       "image": "mech-talisman-power-5.png"
+                     },
+                     {
+                       "id": "79",
+                       "name": "Protection Cartridge",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAll teammates gain 2 {Shield Boost}.",
+                       "potentialCost": "4",
+                       "image": "protection-cartridge.png"
+                     },
+                     {
+                       "id": "77",
+                       "name": "Backup Disk",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "4",
+                       "image": "backup-disk.png"
+                     },
+                     {
+                       "id": "78",
+                       "name": "Secret Chip",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Innate}.",
+                       "potentialCost": "4",
+                       "image": "secret-chip.png"
+                     },
+                     {
+                       "id": "80",
+                       "name": "Hacker's Drive",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Attack card)\nAttack applies {Disarmed} for 2 turns to the frontmost enemy.",
+                       "potentialCost": "5",
+                       "image": "hackers-drive.png"
+                     },
+                     {
+                       "id": "75",
+                       "name": "Mech Talisman of Endurance IV",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Shielding card)\nShield Stat +6",
+                       "potentialCost": "2",
+                       "image": "mech-talisman-endurance-4.png"
+                     },
+                     {
+                       "id": "73",
+                       "name": "Mech Talisman of Power IV",
+                       "class": "Mech",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Non-Multihit Attack card)\nATK +6",
+                       "potentialCost": "2",
+                       "image": "mech-talisman-power-4.png"
+                     },
+                     {
+                       "id": "26",
+                       "name": "Plant Talisman of Endurance V",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any Shielding card)\nShield Stat +10",
+                       "potentialCost": "3",
+                       "image": "plant-talisman-endurance-5.png"
+                     },
+                     {
+                       "id": "28",
+                       "name": "Plant Talisman of Faith V",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any Healing card)\nHeal Stat +10",
+                       "potentialCost": "3",
+                       "image": "plant-talisman-faith-5.png"
+                     },
+                     {
+                       "id": "31",
+                       "name": "Leafy Pot",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAll teammates gain 1 {Leaf}.",
+                       "potentialCost": "4",
+                       "image": "leafy-pot.png"
+                     },
+                     {
+                       "id": "30",
+                       "name": "Ancient Root",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "4",
+                       "image": "ancient-root.png"
+                     },
+                     {
+                       "id": "29",
+                       "name": "Secret Sprout",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Innate}.",
+                       "potentialCost": "4",
+                       "image": "secret-sprout.png"
+                     },
+                     {
+                       "id": "97",
+                       "name": "Red Sage",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance shield and healing cards)\r\nAdd {Cleanse}.",
+                       "potentialCost": "5",
+                       "image": "red-sage.png"
+                     },
+                     {
+                       "id": "32",
+                       "name": "White Sage",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance shield and healing cards)\nAdd {Cleanse}. Card's base stat -100%.",
+                       "potentialCost": "5",
+                       "image": "white-sage.png"
+                     },
+                     {
+                       "id": "25",
+                       "name": "Plant Talisman of Endurance IV",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance any Shielding card)\nShield Stat +6",
+                       "potentialCost": "2",
+                       "image": "plant-talisman-endurance-4.png"
+                     },
+                     {
+                       "id": "27",
+                       "name": "Plant Talisman of Faith IV",
+                       "class": "Plant",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance any Healing card)\nHeal Stat +6",
+                       "potentialCost": "2",
+                       "image": "plant-talisman-faith-4.png"
+                     },
+                     {
+                       "id": "68",
+                       "name": "Reptile Talisman of Faith V",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance a Healing card)\nHeal Stat +10",
+                       "potentialCost": "3",
+                       "image": "reptile-talisman-faith-5.png"
+                     },
+                     {
+                       "id": "66",
+                       "name": "Reptile Talisman of Vitality V",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\nAxie's HP +35",
+                       "potentialCost": "3",
+                       "image": "reptile-talisman-vitality-5.png"
+                     },
+                     {
+                       "id": "71",
+                       "name": "Gecko Mask",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Epic",
+                       "effect": "(Enhance any card)\n{Taunt} all Enemies for 2 turns.",
+                       "potentialCost": "4",
+                       "image": "gecko-mask.png"
+                     },
+                     {
+                       "id": "70",
+                       "name": "Reptile Energy Drink M",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Banish}. Card's base stat +20%.",
+                       "potentialCost": "4",
+                       "image": "reptile-energy-drink-m.png"
+                     },
+                     {
+                       "id": "69",
+                       "name": "Sticky Lizard",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any card)\nAdd {Retain}.",
+                       "potentialCost": "4",
+                       "image": "sticky-lizard.png"
+                     },
+                     {
+                       "id": "72",
+                       "name": "Viper's Venom",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Mystic",
+                       "effect": "(Enhance any Attack card)\nAttack applies 2 {Poison}.",
+                       "potentialCost": "5",
+                       "image": "vipers-venom.png"
+                     },
+                     {
+                       "id": "67",
+                       "name": "Reptile Talisman of Faith IV",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance a Healing card)\nHeal Stat +6",
+                       "potentialCost": "2",
+                       "image": "reptile-talisman-faith-4.png"
+                     },
+                     {
+                       "id": "65",
+                       "name": "Reptile Talisman of Vitality IV",
+                       "class": "Reptile",
+                       "isBlockchain": "1",
+                       "rarity": "Rare",
+                       "effect": "(Enhance any card)\nAxie's HP +20",
+                       "potentialCost": "2",
+                       "image": "reptile-talisman-vitality-4.png"
                      }
                    ]
                  }
