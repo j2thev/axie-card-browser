@@ -6395,6 +6395,13 @@ module.exports = {
                        "type": "Transform/Buff",
                        "description": "Gain 1 Energy when transforms. Deal double damage and last for 1 turn.",
                        "image": "buff_fury.png"
+                     },
+                     {
+                        "id": 2,
+                        "name": "Fury",
+                        "type": "Buff",
+                        "description": "Deal pure DMG and gain HP.",
+                        "image": ""
                      }
                    ],
                    "runes": [
